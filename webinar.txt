@@ -1,0 +1,146 @@
+webinar
+
+ software then  run or say power largest company, encrtpy data
+, download the source code
+Facebook UI, Google android system
+
+You can take it as a core or a base
+
+
+Several software are made by people, communities, & tech companies
+
+
+Let say some one made a product, and other can see code fix the bug and be a contributor of it
+
+
+But that was never the case earlier, microsoft made windows under the intelluctual rights
+
+Now open-source has taken almost every project from walmart,  to erizon
+
+Now microsoft has changed all their prospective & is the highest contributor of open source
+
+
+In 1970 MIT labs (richard starmalin )
+
+He made such a code like whenever their is a problem occurs it will send a message saying fix the printer
+
+(New printer : ) his code was not good for other so he asked for it and was refused
+
+So me made GNU OS
+
+
+Then come the biggest game changer in year 1991 - Linux Trovold made Linux from GNU 
+adopted it and made changes as per need
+
+Now nasa, dell are using it for their servers maintaince & satellites
+
+
+Note - almost 10,000 lines are changed for linux everyday
+
+
+
+-----------
+proper doesn't support reverse engineering
+wordpress : 26% of websites
+vlc
+firefox
+
+
+
+-----------
+whenver comapy make a project it depends on them they want to make it open source or close source (properirty)
+
+close is stable with cost ()
+wait for creator to change the bug
+
+
+Mysql , perl apache web server.
+
+
+2008 google released android run on modified version of linux . Marketing was booming at that time
+
+navigation, or any smart car you have more codes then it is given to any normal phone
+
+
+Like we all are making so much code - there should be platform for everyone to collaborate with projects
+
+So again a game changer in market github with a ans : 
+
+
+Microsoft acquire gihub in 2018
+
+Walmart open source cloud management platform
+Goldman sac open source data modeling program
+
+
+
+How monetize is done like when project is given free : 
+
+subscription, commercial version
+RedHat come with first market strategy as they provide support service to enterprise (red hat enterprise linux)
+
+
+IBM acquire redHat (largest software acquistion)
+
+
+
+Like mulesoft, mongoDB provide basic feature for free other are properitery
+
+
+Lot of them are voluteers. 
+
+issue also come ssl
+now sponsers are their
+
+
+
+
+
+
+
+Window use gitbash
+other git 
+
+
+---------------
+
+Git vs GitLab :
+
+Git is version control system
+
+
+
+after acquire people think that open source roots
+
+GitLab :  Git based repositiry hosting platform (2011)
+
+to distuingh with GitHUb (made single product for whole devops lifecycle )
+
+		issue tracker
+		continuos intergration & delivery are part of product
+
+comapnies like IBM, sony , alibaba
+
+
+
+-----------
+
+similarities & diffeence
+
+both have public & private (Github - public free , private charge)
+Gitlab unlimitated both (charge for usuage for DEVOPs tools)   -> give permisssion with issue tracker without giving whole permission
+
+
+Github can use issue, CICD pipleline with plugin (need to update)
+
+
+
+---------
+which to choose : Git good for open source, devopers with github(interface is also fast)
+Gitlab - self host or looking 
+
+
+-----------
+
+Source controlling problem : merging code from 2 different machine into single for new code
+
