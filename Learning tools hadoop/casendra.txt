@@ -1,0 +1,19 @@
+1 to Create a keyspace
+	-	create KEYSPACE testing with replication = {'class': 'SimpleStrategy', 'replication_factor':3} AND durable_writes=true;
+
+2 To make any table first use the keyspace
+	-	 create TABLE test (id int, name text, Primary key(id));
+
+3 To insert values inside the table cassandra
+	-	INSERT INTO test (id,name) VALUES ( 1,'tushar');
+
+4 Show all data
+	-	select * from table;
+
+5 Apply fiter condition on data which doesn't come in primary key
+	-	SELECT id from test where name='tushar2' ALLOW FILTERING ;
+
+6 To create index
+	-	create Index <name of index> on <table on which> ( <column name>);
+
+

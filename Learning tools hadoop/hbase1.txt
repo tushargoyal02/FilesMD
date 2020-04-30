@@ -1,0 +1,33 @@
+1 Status of cluster
+	-	status
+2 Table reference commands
+	-	table_help
+3 Current user 
+	-	whoami
+4 Delete column family
+	-	alter 'ns1:t1', NAME => 'f1', METHOD => 'delete'
+5 Change max size of region
+	-	alter 't1', MAX_FILESIZE => '134217728'
+
+Note -> alter_async
+Only one difference between alter command and  alter_async is, alter_async does not wait for all regions to receive the schema changes.
+
+6 Drop the table
+	-	drop 'table-name'
+7 Check whether table exists or noy
+	-	exists 'table-name'
+8 Append a cell value at specified table / row
+	-	append 't1', 'r1', 'c1', 'value', ATTRIBUTES=>{'mykey'=>'myvalue'}
+
+
+9 Grant specific permission
+	Syntax -     grant <user> <permissions> [<@namespace> [<table> [<column family> [<column qualifier>]]]
+
+	
+	-	grant 'bobsmith', 'RWXCA', '@ns1'
+	-	grant 'bobsmith', 'RW', 't1', 'f1', 'col1'
+
+10 Showing all permission of specific user
+	-	user_permission '<table-name>'
+
+
